@@ -5,14 +5,14 @@
 }
 
 body {
-  background-color: #ddd;
+  background-color: hsl(204, 43%, 93%);
   font-family: "Karla", sans-serif;
 }
 
 .wrapper {
   width: 60%;
   display: grid;
-  margin: 5% auto;
+  margin: 6% auto;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: minmax(100px, auto);
 }
